@@ -1,5 +1,18 @@
+# IDE junk
 .metadata/
+.settings/
+.project
+.cproject
+
+# STM32 build
 Debug/
 Release/
-*.log
-*.swp
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.launch
+
+# OS
+.DS_Store
