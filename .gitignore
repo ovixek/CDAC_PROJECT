@@ -13,6 +13,15 @@ Release/
 *.map
 *.o
 *.launch
+*.lst
+*.su
+*.d
+*.i
+*.s
+
+# Logs
+*.log
 
 # OS
 .DS_Store
+
